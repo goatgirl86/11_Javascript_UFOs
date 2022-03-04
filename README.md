@@ -1,6 +1,9 @@
 # UFOs
 
 ## Project Overview
+
+### Relevant Files & Folders
+Relevant Folder: static
 Relevant HTML File: index_challenge.html
 
 ### Purpose
@@ -59,4 +62,11 @@ I believe this is important because without a little context, it is hard to know
 2)	I would add functionality to the table to allow for column sorting.  It is hard to search for a city or state if you don’t know all the potential options.  By allowing for column sorting within the table, you can retain all rows on the page but be able to better visualize trends in the data through grouping of column values.
 
 __** Note - For disclosure: I summarized these data by copying and pasting the html table into Microsoft Excel and sorting values as discussed in bullet points above.__   
+
+
+## Code Info
+
+### Example Code Snippets of Java Code (found in app.js file under static folder)
+![image](https://user-images.githubusercontent.com/92705556/156702192-f1685d5c-0577-4ecf-915f-31550cd909c8.png)
+![image](https://user-images.githubusercontent.com/92705556/156702201-56fc364b-e0ea-490c-9928-64e3f7ebbeae.png)
 
