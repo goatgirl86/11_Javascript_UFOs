@@ -32,7 +32,7 @@ To the left of the table is a list of filters options.  These filters allow you 
  ![image](https://user-images.githubusercontent.com/92705556/156701542-1ed6d452-72ed-444f-99f5-2a8e38a820c8.png)
 
 
-If you want to search for a specific date (ex. 1/2/2010), you would simple enter 1/2/2010 and press “tab” or “enter”. In this example there were eight sightings on 1/2/2010.  You can better refine your search on 1/2/2010 by adding additional criteria like “ca” for the state of California.  If you were to do this, you would see that there are two sightings in California on 1/2/2010.  
+If you want to search for a specific date (ex. 1/2/2010), you would simple enter 1/2/2010 and press “tab” or “enter”. In this example there were eight sightings on 1/2/2010.  You can better refine your search on 1/2/2010 by adding additional criteria like “ca” for the state of California.  If you were to do this, you would see that there are two sightings in California on 1/2/2010 (screenshot below).  
 
 ![image](https://user-images.githubusercontent.com/92705556/156701556-47371cdb-e61a-40f5-b1ee-4622e0e2df6c.png)
 
