@@ -3,7 +3,7 @@
 ## Project Overview
 
 ### Relevant Files & Folders
-Relevant Folder: static
+Relevant Folder: static,
 Relevant HTML File: index_challenge.html
 
 ### Purpose
