@@ -47,7 +47,7 @@ To clear the filters, either refresh the page or delete the input in the filter 
 
 ## Summary
 
-### Drawback
+### Drawbacks
 While this webpage has functional filters to parse out and display the UFO sighting data, I see some drawbacks to its functionality.  
 
 1)	All data has been entered in lowercase letters.  Proper grammar says to capitalize city and state names (i.i Fresno, CA rather than fresno, ca).  However, the filtering on this webpage is case specific and does not allow for capitalized letters.  I believe this drawback may cause problems for some users that are used to capitalizing proper nouns.  
