@@ -7,7 +7,7 @@ Relevant Folder: static,
 Relevant HTML File: index_challenge.html
 
 ### Purpose
-The purpose of this challenge was to assist “Dana” with visualizing UFO sighting data through a customized webpage that includes a table of fully functional filters that define UFO search criteria. 
+The purpose of this challenge was to use JavaScript to assist “Dana” with visualizing UFO sighting data through a customized webpage that includes a table of fully functional filters that define UFO search criteria. 
 
 ### Data Analyzed
 UFO Data:
